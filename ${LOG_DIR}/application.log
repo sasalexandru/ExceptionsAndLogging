@@ -1,0 +1,30 @@
+
+2020-10-20 13:33:47 ERROR First name cannot be empty
+2020-10-20 13:33:47 ERROR Student not added: First name cannot be empty
+2020-10-20 13:34:59 ERROR First name cannot be empty
+2020-10-20 13:34:59 ERROR Student not added: First name cannot be empty
+2020-10-20 13:35:15 ERROR First name cannot be empty
+2020-10-20 13:35:15 ERROR Student not added: First name cannot be empty
+2020-10-20 13:35:35 ERROR This student already in the list
+2020-10-20 13:37:16 ERROR This student already in the list
+2020-10-20 13:38:30 ERROR Student ID is not in the list
+2020-10-20 13:38:58 ERROR Student ID is not in the list
+2020-10-20 13:39:18 ERROR Student ID cannot be empty
+2020-10-20 13:40:41 ERROR Student ID is not in the list
+2020-10-20 13:46:25 ERROR Birthday before 1900 is not accepted
+2020-10-20 13:47:08 ERROR You are not born in the future, sorry
+2020-10-20 13:48:06 ERROR First name cannot be empty
+2020-10-20 13:48:33 ERROR First name cannot be empty
+2020-10-20 13:49:02 ERROR Birthday before 1900 is not accepted
+2020-10-20 13:49:38 ERROR First name cannot be empty
+2020-10-20 13:50:12 ERROR First name cannot be empty
+2020-10-20 13:50:35 ERROR First name cannot be empty
+2020-10-20 13:50:43 ERROR First name cannot be empty
+2020-10-20 13:51:15 ERROR First name cannot be empty
+2020-10-20 13:52:04 ERROR First name cannot be empty
+2020-10-20 13:52:51 ERROR Birthday before 1900 is not accepted
+2020-10-20 13:52:58 ERROR Birthday before 1900 is not accepted
+2020-10-20 13:53:08 ERROR Birthday before 1900 is not accepted
+2020-10-20 13:53:32 ERROR Birthday before 1900 is not accepted
+2020-10-20 13:54:38 ERROR First name cannot be empty
+2020-10-20 13:55:05 ERROR Gender should be: M or F
